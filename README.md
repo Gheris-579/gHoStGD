@@ -13,7 +13,7 @@ sudo apt-get install python3
 <h1>Usage Tool</h1>
 
 ```
-git clone https://github.com/Gheris-579/GhostGD.git
+git clone https://github.com/Gheris-579/gHoStGD.git
 cd gHoStGD
 pip3 install -r requirements.txt
 python3 GhOsTGD.py
