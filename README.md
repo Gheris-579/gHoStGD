@@ -1,4 +1,4 @@
-# ===============gHoStGD=================
+# ===============gHoStGD================
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
 <p>New update: Version 1.0 <em>(Hi, I'm doing my best to bring updates)</em></p>
