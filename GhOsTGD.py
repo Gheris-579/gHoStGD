@@ -9,6 +9,9 @@ import phonenumbers
 from phonenumbers import carrier, geocoder, timezone
 from sys import stderr
 import qrcode
+import socket
+
+
 
 Bl = '\033[30m'  # VARIABLE BUAT WARNA CUYY
 Re = '\033[1;31m'
@@ -37,6 +40,10 @@ def is_option(func):
 #------------------IP_Track--------------------------
 @is_option
 def IP_Track():
+    hostname = socket.gethostname()
+    ip1 = socket.gethostbyname(hostname)
+    print(f"{Re}\nYour Computer Name is:{hostname}")
+    print(f'{Re}\n Your Computer IP Address is:{ip1}')
     ip = input(f"{Wh}\n Enter IP target : {Gr}")  # INPUT IP ADDRESS
     print()
     print(f' {Wh}============= {Gr}SHOW INFORMATION IP ADDRESS {Wh}=============')
