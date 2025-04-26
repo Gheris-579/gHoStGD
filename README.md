@@ -4,7 +4,8 @@
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
 
-![iptr.png](img/iptr.png)
+![image](https://github.com/user-attachments/assets/1eff403a-53c6-4b0d-a7e6-1ffcfcb0613f)
+
 
 <p>Version 1.0 <em>(Hi, I'm doing my best to bring updates)</em></p>
 
@@ -12,7 +13,7 @@ Useful tool to track location or mobile number, so this tool can be called osint
 # Diagram
 
 
-![img.png](img.png)![diagram-export-24-04-2025-18_20_24](https://github.com/user-attachments/assets/8a04431b-58ed-4e16-9a8c-f27b1e4e0359)
+![diagram-export-24-04-2025-18_20_24](https://github.com/user-attachments/assets/8a04431b-58ed-4e16-9a8c-f27b1e4e0359)
 
 
 
@@ -44,22 +45,25 @@ python3 GhOsTGD.py
 `
 Display on the menu IP Tracker
 `
-![Screenshot 2024-05-28 210135](https://github.com/Gheris-579/gHoStGD/assets/103877241/7fabd960-a03b-4e84-9486-9929262db34f)
+![image](https://github.com/user-attachments/assets/69f0ae67-01d2-4ccb-acd0-f11324d304ff)
 
 <p><em>on the IP Track menu, you can combo with the seeker tool to get the target IP</em></p>
 
-`Display on the menu Phone Tracker`
+`Display on the menu Fake SMS`
+![image](https://github.com/user-attachments/assets/ac1b750a-6358-4fb9-b17e-d98d0a3e8ec1)
+<p><em>The function of this tool is to send anonymous messages but this tool can only send one message per day</em></p>
 
-![Screenshot 2024-05-28 210246](https://github.com/Gheris-579/gHoStGD/assets/103877241/5e3f4bfd-902f-47d1-afcd-7502e134b592)
+
+`Display on the menu Phone Tracker`
+![image](https://github.com/user-attachments/assets/fe9b41ae-1553-4a78-9749-bb7c16b5742a)
 
 <p><em>on this menu you can search for information from the target phone number</em></p>
 
 `Display on the menu Username Tracker`
-
-![Screenshot 2024-05-28 210445](https://github.com/Gheris-579/gHoStGD/assets/103877241/8c00786d-fcc1-40ed-92b4-99d7b52e8d49)
+![image](https://github.com/user-attachments/assets/3e63bc82-41e8-4d66-a214-c60f4ee9c89c)
 
 <p><em>on this menu you can search for information from the target username on social media</em></p>
 
 `Display on the menu Qrcode`
+![image](https://github.com/user-attachments/assets/274bf1bc-d60c-494c-943c-da880afeadc4)
 
-![Screenshot 2024-05-28 210636](https://github.com/Gheris-579/gHoStGD/assets/103877241/2adb8e4f-1699-4f1d-9bf4-323147ad8139)
