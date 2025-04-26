@@ -4,8 +4,7 @@
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
 
-![img.png](img/img.png)
-
+![iptr.png](img/iptr.png)
 
 <p>Version 1.0 <em>(Hi, I'm doing my best to bring updates)</em></p>
 
@@ -13,7 +12,7 @@ Useful tool to track location or mobile number, so this tool can be called osint
 # Diagram
 
 
-![diagram-export-24-04-2025-18_20_24](https://github.com/user-attachments/assets/8a04431b-58ed-4e16-9a8c-f27b1e4e0359)
+![img.png](img.png)![diagram-export-24-04-2025-18_20_24](https://github.com/user-attachments/assets/8a04431b-58ed-4e16-9a8c-f27b1e4e0359)
 
 
 
