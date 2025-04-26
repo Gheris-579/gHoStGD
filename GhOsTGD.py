@@ -23,6 +23,118 @@ Cy = '\033[1;36m'
 Wh = '\033[1;37m'
 
 
+def sms():
+    smsbanner = f"""{Re}\n
+$$$$$$$$\  $$$$$$\  $$\   $$\ $$$$$$$$\        $$$$$$\  $$\      $$\  $$$$$$\  
+$$  _____|$$  __$$\ $$ | $$  |$$  _____|      $$  __$$\ $$$\    $$$ |$$  __$$\ 
+$$ |      $$ /  $$ |$$ |$$  / $$ |            $$ /  \__|$$$$\  $$$$ |$$ /  \__|
+$$$$$\    $$$$$$$$ |$$$$$  /  $$$$$\          \$$$$$$\  $$\$$\$$ $$ |\$$$$$$\  
+$$  __|   $$  __$$ |$$  $$<   $$  __|          \____$$\ $$ \$$$  $$ | \____$$\ 
+$$ |      $$ |  $$ |$$ |\$$\  $$ |            $$\   $$ |$$ |\$  /$$ |$$\   $$ |
+$$ |      $$ |  $$ |$$ | \$$\ $$$$$$$$\       \$$$$$$  |$$ | \_/ $$ |\$$$$$$  |
+\__|      \__|  \__|\__|  \__|\________|       \______/ \__|     \__| \______/ 
+                                                                               
+           {Wh}|----------------------------------------|
+           {Wh}| {Gr}GhOsTGD - FAKE-SMS                     {Wh}|
+           {Wh}| {Gr}@CODE BY GHERIS                        {Wh}|
+           {Wh}|----------------------------------------|           
+           
+                                                                 
+                                                                               
+    """
+    print(smsbanner)
+
+
+def phoneTR():
+
+    Tr = f"""
+    {Cy}\n
+$$$$$$$\  $$\                                           $$$$$$$$\                           $$\                           
+$$  __$$\ $$ |                                          \__$$  __|                          $$ |                          
+$$ |  $$ |$$$$$$$\   $$$$$$\  $$$$$$$\   $$$$$$\           $$ | $$$$$$\  $$$$$$\   $$$$$$$\ $$ |  $$\  $$$$$$\   $$$$$$\  
+$$$$$$$  |$$  __$$\ $$  __$$\ $$  __$$\ $$  __$$\          $$ |$$  __$$\ \____$$\ $$  _____|$$ | $$  |$$  __$$\ $$  __$$\ 
+$$  ____/ $$ |  $$ |$$ /  $$ |$$ |  $$ |$$$$$$$$ |         $$ |$$ |  \__|$$$$$$$ |$$ /      $$$$$$  / $$$$$$$$ |$$ |  \__|
+$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$   ____|         $$ |$$ |     $$  __$$ |$$ |      $$  _$$<  $$   ____|$$ |      
+$$ |      $$ |  $$ |\$$$$$$  |$$ |  $$ |\$$$$$$$\          $$ |$$ |     \$$$$$$$ |\$$$$$$$\ $$ | \$$\ \$$$$$$$\ $$ |      
+\__|      \__|  \__| \______/ \__|  \__| \_______|         \__|\__|      \_______| \_______|\__|  \__| \_______|\__|      
+                                                                                                                          
+                                                                                                                          
+           {Wh}|----------------------------------------|
+           {Wh}| {Gr}GhOsTGD - PhoneTracker                 {Wh}|
+           {Wh}| {Gr}@CODE BY GHERIS                        {Wh}|
+           {Wh}|----------------------------------------|                                                                                                                 
+                                                                                                              
+    """
+    print(Tr)
+
+def infor():
+    bannerInfo = f"""    {Mage}       
+                                                                                                                                                                                                                                                                                                                                                                           
+                           WVVWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWVVW                          
+                          UW                                             WT                         
+                          S                                               S                         
+                          S                                               S                         
+                          STTUVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVUUS                         
+                          S                                               S                         
+                          S                                               S                         
+                          S                                               S                         
+                          S                   NKBAAAAAT                   S                         
+                          S                   NWSAAAAAS                   S                         
+                          S                 TOFDCAAAAACDV                 S                         
+                          S                 SDAQQQQQQNAAU                 S                         
+                          S                 WNHVUVUWUPLNX                 S                         
+                          S                   SUVWWTWSTSX                 S                         
+                          SZ                XURSWVXRWWYSTXY               S                         
+                          SY               XOTPAKTVSHAAAQPV               S                         
+                          SZ                SAAAAAAAAAAAU                 S                         
+                          SX                ZYYYYYYYYYYYZ                 S                         
+                          SZ                                              S                         
+                          SX                                              Q                         
+                          XOTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXWWRX                         
+                            WSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSX         
+                            
+                            
+                            
+           {Wh}|----------------------------------------|
+           {Wh}| {Gr}GhOsTGD - Username-Tracker             {Wh}|
+           {Wh}| {Gr}@CODE BY GHERIS                        {Wh}|
+           {Wh}|----------------------------------------|                   
+                                                                                                    
+    """
+    print(bannerInfo)
+
+def qrBa():
+    bannerqr = f"""    {Gr}                   
+                                                                          XY                        
+                            OOOOOOOOOU  XOOOPPOOOOOOOOOOOOR   NOOOOOOOOW  XX                                               
+                            AAAAAAAAAO  UGOHLTTTSGGHJTU UHM   AAAAAAAAAS  XX                        
+                            AAAAAAAAAO  UCLXTCCCHXY ZCG ZXY   AAAAAAAAAS  XU                        
+                            MMMMMMMMMT  UZSAH   XBI Z   UBH   MMMMMMMMMV  XX                        
+                                        UAI UAAAF WAE                     XX                        
+                            EEY   IKOQRRRPV ZWWWSEIVX WEJ  YQEEEEEEEEJPW  XU                        
+                            AN  HHCGS NHS   UGHHKTV   VAF   XSSSSSSTTY    XU                        
+                            LYMNOOOPW HAO SLMQQQOJKNTLNQPLLLU VLLLLLM     XU                        
+                            HNBGY   QNNNTZOAH XRUAADMNONKCLMT WNLABNO     XU                        
+                            AJLLY   PLNOT PAI TSUAAIN WJKW  WOQ YLLOOPQW  XU                        
+                            DS  TT    HAL SHMSPLSJLSSU  YVY SAE YSRJIAAS  XU                        
+                            AE  LRVWY LENVX TDK   WAAGZ VOT TFK VCFUUACS  XU                        
+                            H   ECCCQ   QCKXY   ZXTCEXXXTCIY    XXXCCX    XV                        
+                            I             PAH   XAF XAAAH VW              XU                        
+                            R           VCPVW TPSYZ ZYURTCH               XU                        
+                                        VUWWSFDAF   XEH ZWX               XV                        
+                            CCCCCCCCCP  UT  SAETU XXVSRHHHM   CCDCCCCCCS  XU                        
+                            AAAAAAAAAO  USTKMQS   YVY YPPPS   AAAAAAAAAS  XU                        
+                            AAAAAAAAAO  URUMQ WNP     XXU     AAAAAAAAAS  XV                        
+                            AAAAAAAAAO  UQ    UJM     XNQ     AAAAAAAAAS  XU                                            
+                        ZXWVVVVVVVVVVVVVVVVVVVVVVVWVVVVVVVVVVVVVVVVVVVVVVVVW    
+                        
+           {Wh}|----------------------------------------|
+           {Wh}| {Gr}GhOsTGD - QR-CODE                      {Wh}|
+           {Wh}| {Gr}@CODE BY GHERIS                        {Wh}|
+           {Wh}|----------------------------------------|                            
+
+    """
+    print(bannerqr)
 # utilities
 
 # decorator for attaching run_banner to a function
@@ -44,7 +156,8 @@ def IP_Track():
     ip1 = socket.gethostbyname(hostname)
     print(f"{Re}\nYour Computer Name is:{hostname}")
     print(f'{Re}\n Your Computer IP Address is:{ip1}')
-    ip = input(f"{Wh}\n Enter IP target : {Gr}")  # INPUT IP ADDRESS
+    ip = input(f"""\n{Re}┌─[{Cy}GhOsTGD{Blu}~{Wh}@HOME{Re}/IP-Track{Re}]
+└──╼{Wh}$ Enter IP Target ==>  """) # INPUT IP ADDRESS
     print()
     print(f' {Wh}============= {Gr}SHOW INFORMATION IP ADDRESS {Wh}=============')
     req_api = requests.get(f"http://ipwho.is/{ip}")  # API IPWHOIS.IS
@@ -85,9 +198,12 @@ def IP_Track():
 #-----------------------Fake-SMS--------------------
 
 def Fake_Sms():
-    phone = input(f"{Cy}[*] Enter number of the victim : ")
+    clear()
+    sms()
+    phone =  input(f"""\n{Re}┌─[{Cy}GhOsTGD{Blu}~{Wh}@HOME{Re}/Fake-SMS{Re}]
+└──╼{Wh}$ Enter number of the victim ==>  """)
     print(f">>> {phone}")
-    message = input(f"[*] ENTER YOUR MSG           :{Cy}")
+    message = input(f"\n[*] ENTER YOUR MSG           :{Cy}")
     print(f">>> {message}")
     resp = requests.post('https://textbelt.com/text', {
     'phone': f'{phone}',
@@ -99,10 +215,12 @@ def Fake_Sms():
 
 
 #------------------------------------PhoneTr-------------------------------
-@is_option
+
 def phoneGW():
-    User_phone = input(
-        f"\n {Wh}Enter phone number target {Gr}Ex [+6281xxxxxxxxx] {Wh}: {Gr}")  # INPUT NUMBER PHONE
+    clear()
+    phoneTR()
+    User_phone = input(f"""\n{Re}┌─[{Cy}GhOsTGD{Blu}~{Wh}@HOME{Re}/PhoneTR{Re}]
+└──╼{Wh}$ Enter phone number target ==> {Wh} Ex [+6281xxxxxxxxx]  """)  # INPUT NUMBER PHONE
     default_region = "ID"  # DEFAULT NEGARA INDONESIA
 
     parsed_number = phonenumbers.parse(User_phone, default_region)  # VARIABLE PHONENUMBERS
@@ -140,10 +258,13 @@ def phoneGW():
         print(f" {Wh}Type                 :{Gr} This is another type of number")
 
 #-------------TrackUs-------------------------
-@is_option
+
 def TrackLu():
+    clear()
+    infor()
     try:
-        username = input(f"\n {Wh}Enter Username : {Gr}")
+        username = input(f"""\n{Re}┌─[{Cy}GhOsTGD{Blu}~{Wh}@HOME{Re}/Username-Tracker{Re}]
+└──╼{Wh}$ Enter username on social media  ==>  """)
         results = {}
         social_media = [
             {"url": "https://www.twitter.com/{}", "name": "Twitter"},
@@ -187,9 +308,12 @@ def TrackLu():
         print(f" {Wh}[ {Gr}+ {Wh}] {site} : {Gr}{url}")
 
 def qr():
-    print("\n")
-    img1 = input(f"{Mage}Some data here: ")
-    file = input(f"{Blu}Name of file: ")
+    clear()
+    qrBa()
+    img1 =  input(f"""\n{Re}┌─[{Cy}GhOsTGD{Blu}~{Wh}@HOME{Re}/QR-CODE{Re}]
+└──╼{Wh}$ Some data here  ==>  """)
+    file = input(f"""\n{Re}┌─[{Cy}GhOsTGD{Blu}~{Wh}@HOME{Re}/QR-CODE{Re}]
+└──╼{Wh}$ Name of file  ==>  """)
     img = qrcode.make(f"{img1}")
     type(img)  # qrcode.image.pil.PilImage
     img.save(f"{file}")
@@ -279,7 +403,7 @@ def is_in_options(num):
 def option():
     # BANNER TOOLS
     clear()
-    stderr.writelines(f"""
+    stderr.writelines(f"""{Gr}
      ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓███████▓▒░▒▓████████▓▒░▒▓██████▓▒░░▒▓███████▓▒░  
     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░  ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
     ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
@@ -299,8 +423,8 @@ def run_banner():
     stderr.writelines(f"""{Wh}
 
      .'``'.      ...           {Wh}|----------------------------------------|
-     :o  o `....'`  ;          {Wh}| {Gr}GhOsTGD - TRACKER - IP ADDRESS {Wh}|
-     `. O         :'           {Wh}|       {Gr}@CODE BY GHERIS          {Wh}|
+     :o  o `....'`  ;          {Wh}| {Gr}GhOsTGD - TRACKER - IP ADDRESS         {Wh}|
+     `. O         :'           {Wh}|       {Gr}@CODE BY GHERIS                  {Wh}|
        `':          `.         {Wh}|----------------------------------------|
          `:.          `.
           : `.         `.
@@ -318,8 +442,13 @@ def main():
     clear()
     option()
     time.sleep(1)
+
     try:
-        opt = int(input(f"{Wh}\n [ + ] {Gr}Select Option : {Wh}"))
+        opt = int(input(f"""\n{Re}┌─[{Cy}GhOsTGD{Blu}~{Wh}@HOME{Re}]
+└──╼{Wh}$ """).lower())
+
+
+
         execute_option(opt)
     except ValueError:
         print(f'\n{Wh}[ {Re}! {Wh}] {Re}Please input number')
