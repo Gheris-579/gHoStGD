@@ -15,6 +15,13 @@ Useful tool to track location or mobile number, so this tool can be called osint
 
 
 
+<h2>Operating Systems Tested</h2>
+<ul>
+<li>Windows 11</li>
+<li>Ubuntu</li>
+<li>Kali Linux</li>
+</ul>
+
 
 <h2>Instalation on Linux (deb)</h2>
 
