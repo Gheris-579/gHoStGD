@@ -3,7 +3,9 @@
 # ===============gHoStGD================
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
-![Screenshot 2024-05-28 210332](https://github.com/Gheris-579/gHoStGD/assets/103877241/869b859d-9294-4c57-a6aa-ec43901d73fe)
+
+![img.png](img/img.png)
+
 
 <p>Version 1.0 <em>(Hi, I'm doing my best to bring updates)</em></p>
 
