@@ -1,6 +1,6 @@
  ![MEDA WITH -GHERIS-](https://github.com/Gheris-579/RANSOMEWARE/assets/103877241/8680eb64-f902-496d-8d48-1b4239340c40) ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)    
 
-# ===============gHoStGD================
+# ==============gHoStGD===============
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
 
