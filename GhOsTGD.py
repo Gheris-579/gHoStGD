@@ -1,6 +1,9 @@
 #  CODE BY GHERIS
+# gHoStGD
+# Copyright (C) 2025 Gheris
+# Licensed under GPL-3.0 (see LICENSE)
 
-# IMPORT MODULE
+
 import json
 import requests
 import time
@@ -462,4 +465,5 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         print(f'\n{Wh}[ {Re}! {Wh}] {Re}Exit')
         time.sleep(2)
+
         exit()
