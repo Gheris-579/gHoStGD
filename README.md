@@ -67,3 +67,6 @@ Display on the menu IP Tracker
 `Display on the menu Qrcode`
 ![image](https://github.com/user-attachments/assets/274bf1bc-d60c-494c-943c-da880afeadc4)
 
+
+## License
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See `LICENSE`.
